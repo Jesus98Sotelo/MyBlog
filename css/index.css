@@ -12,7 +12,7 @@ body {
     right: 0;
     font-family: 'Titillium Web', sans-serif;
     font-size: 62.5%;
-    background-image: url(/MyBlog/assets/img/BackgrounPaisaje.jpeg);
+    background-image: url(/assets/img/BackgrounPaisaje.jpeg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -76,6 +76,7 @@ header nav {
     font-size: 2rem;
     font-weight: 700;
     color: #5D4037;
+    text-shadow: #FFE6D7 5px 1px 4px;
 }
 .nav__profile--link {
     display: flex;
